@@ -37,7 +37,10 @@ These are instructions you can follow.
 
 ### Preliminaries
 
-1. Download the repository to the local.
+1. Clone the repository to the local.
+```
+git clone https://github.com/Yoonseongyeon/MARTINI
+```
 
 2. Compile .p4 files.
 ```
